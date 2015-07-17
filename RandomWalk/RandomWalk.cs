@@ -59,7 +59,7 @@ namespace RandomWalk
 
                 for (int j = 0; j < walkArray[i]; j++)
                 {
-                    Console.Write(stepNumber);
+                    Console.Write("*");
                 }
 
                 Console.WriteLine();
